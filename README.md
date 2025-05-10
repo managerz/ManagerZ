@@ -172,21 +172,28 @@ src/
 
 Além da versão open source, oferecemos o **Manager Z PRO**, uma solução premium com funcionalidades avançadas para atender às necessidades mais exigentes de empresas e desenvolvedores. Confira abaixo as diferenças entre as versões:
 
-| Funcionalidade                                              | Open Source | PRO |
-| ----------------------------------------------------------- | ----------- | --- |
-| 🚻 Atualização automática de QR Code                        | ❌           | ✅  |
-| 📁 Envio de **texto, imagem, vídeo, áudio e documentos**     | ✅           | ✅  |
-| 👥 Obtenção de **contatos, chats, grupos e membros de grupo**| ❌           | ✅  |
-| 📞 Envio de contatos                                         | ❌           | ✅  |
-| Botões interativos                                          | ❌           | ✅  |
-| Envio de stickers                                           | ❌           | ✅  |
-| Envio de stickers animados (GIF)                            | ❌           | ✅  |
-| Múltiplas sessões                                           | ❌           | ✅  |
-| ⏩ Encaminhamento de mensagens                               | ❌           | ✅  |
-| 📥 Recebimento de mensagens                                 | ✅           | ✅  |
-| 👤 Gerenciamento de usuários                                | ❌           | ✅  |
-| 📍 Envio de localização                                     | ❌           | ✅  |
-| 🕸🕸 **e muito mais**                                        | ❌           | ✅  |
+| Funcionalidade                                    | Open Source | PRO |
+| ------------------------------------------------- | :---------: | :-: |
+| 🚻 Dashboard para gerenciamento de instâncias      |      ✅     |  ✅  |
+| 📁 SaaS - Criação de contas com 1 única API        |      ✅     |  ✅  |
+| 📁 SaaS - Criação de múltiplas contas de usuários  |      ❌     |  ✅  |
+| 🔄 Múltiplas sessões                               |      ✅     |  ✅  |
+| ⏩ Encaminhamento de mensagens                     |      ✅     |  ✅  |
+| 📥 Recebimento de mensagens                        |      ✅     |  ✅  |
+| 👤 Múltiplas APIs                                  |      ❌     |  ✅  |
+| 📍 Compartilhamento de API                         |      ❌     |  ✅  |
+| 🤖 TypeBot                                         |      ❌     |  ✅  |
+| 💬 Chats                                           |      ❌     |  ✅  |
+| 🛟 Área de Suporte                                 |      ❌     |  ✅  |
+| 🎫 Tickets                                         |      ❌     |  ✅  |
+| ⚙️ Configurações avançadas                         |      ❌     |  ✅  |
+| 🔢 Limite de Conexão Por API                       |      ❌     |  ✅  |
+| ⭐ Prioridade de Uso de API                        |      ❌     |  ✅  |
+| 🚦 Status de API (Ativo, Parcial, Manutenção)      |      ❌     |  ✅  |
+| 🔑 Permitir Cliente Criar suas API                 |      ❌     |  ✅  |
+| 📚 Área de tutorial mais completa                  |      ❌     |  ✅  |
+| 👥 Gerenciamento de usuários                       |      ❌     |  ✅  |
+| 📌 Envio de localização                            |      ❌     |  ✅  |
 
 Para saber mais sobre o **Manager Z PRO**, entre em contato conosco pelo email [contato@sonho.digital](mailto:contato@sonho.digital) ou visite nosso site [managerz.sonho.digital](https://managerz.sonho.digital).
 
